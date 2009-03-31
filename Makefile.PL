@@ -17,6 +17,7 @@ WriteMakefile(
 
         'KiokuDB' => '0.24',
         'DBIx::Class' => '0.081',
+        'SQL::Translator' => '0.08', # deploy support
         'DBI' => '1.607', # execute_array etc
 
         'Data::Stream::Bulk' => 0,
